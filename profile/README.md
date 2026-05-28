@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Computer Love" width="160" />
+  <img src="../assets/logo.png" alt="Computer Love" width="160" />
 </p>
 
 <h1 align="center">Computer Love</h1>
